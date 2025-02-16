@@ -220,3 +220,4 @@ notes.txt
 
 # Ignore any other personal files
 *.personal
+results/
